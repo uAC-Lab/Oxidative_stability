@@ -4,7 +4,7 @@
 
 A web application that predicts the **oxidative Induction Period (IP)** of oils from their fatty acid composition using a fine-tuned machine learning model.
 
-**Live Demo**: [https://ippredictor-production.up.railway.app/](https://ippredictor-production.up.railway.app/)
+**Live Demo**: [https://oxidative-stability.up.railway.app/](https://oxidative-stability.up.railway.app/)
 
 ---
 
