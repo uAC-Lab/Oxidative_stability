@@ -4,7 +4,7 @@
 
 A web application that predicts the **oxidative Induction Period (IP)** of oils from their fatty acid composition using a fine-tuned machine learning model. The model is described in the following publication: 
 
-**Machine Learning-Based Inference of Oxidative Stability of Vegetable Oils** by Emmanuel Dike, Lucas Ayres, Justin Furgala, Jorge Barroso, Daniel Whitehead, and Carlos D. Garcia. _Journal of Food Composition and Analysis_ (2026) https://doi.org/10.1016/j.jfca.2026.109135
+**Machine Learning-Based Inference of Oxidative Stability of Vegetable Oils** by Emmanuel Dike, Lucas Ayres, Justin Furgala, Jorge Barroso, Daniel Whitehead, and Carlos D. Garcia. _Journal of Food Composition and Analysis_ (https://doi.org/10.1016/j.jfca.2026.109135)
 
 
 **Live Demo**: [https://oxidative-stability.up.railway.app/](https://oxidative-stability.up.railway.app/)
