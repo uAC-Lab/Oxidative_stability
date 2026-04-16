@@ -27,5 +27,9 @@ A web application that predicts the **oxidative Induction Period (IP)** of oils 
 6. You are welcome to use the predictor, but we ask that you cite our work or give credit to it 
 
 ---
+<p align="center">
+  <img src="rancimat_FAME.png" alt="IP Predictor Banner" width="100%">
+</p>
+
 
 © Microanalytical Chemistry Lab — Clemson University
